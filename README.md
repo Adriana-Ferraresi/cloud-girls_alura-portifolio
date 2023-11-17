@@ -1,8 +1,8 @@
-# Cloud-girls_alura-html-css-classes-flexbox
+# Cloud-girls_alura-portifolio
 
 # Projeto Portifolio
 
-## Alura - Curso de HTML e CSS: posicionamento, fontes e Flexbox 
+## Curso de HTML e CSS: posicionamento, fontes e Flexbox 
 
 ### O que são classes CSS e sua importância
 ### Conhecendo o Flexbox e aplicando técnicas para posicionar seus elementos de forma prática
